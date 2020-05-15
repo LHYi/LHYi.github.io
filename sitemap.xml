@@ -2,9 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/Feiyue/index.html</loc>
+    
+    <lastmod>2020-05-15T06:17:05.269Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/FeiyueForECE/index.html</loc>
     
-    <lastmod>2020-05-15T04:15:05.608Z</lastmod>
+    <lastmod>2020-05-15T06:15:37.537Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/Research/index.html</loc>
+    
+    <lastmod>2020-05-15T06:07:19.319Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/Album/index.html</loc>
+    
+    <lastmod>2020-05-15T06:07:10.265Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/About/index.html</loc>
+    
+    <lastmod>2020-05-15T06:06:05.241Z</lastmod>
     
   </url>
   
