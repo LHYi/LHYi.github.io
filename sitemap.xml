@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/Feiyue/index.html</loc>
+    
+    <lastmod>2020-05-16T07:01:34.509Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/Album/index.html</loc>
     
     <lastmod>2020-05-15T10:13:04.637Z</lastmod>
@@ -26,13 +33,6 @@
     <loc>http://yoursite.com/Project/index.html</loc>
     
     <lastmod>2020-05-15T07:18:39.819Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/Feiyue/index.html</loc>
-    
-    <lastmod>2020-05-15T07:18:18.066Z</lastmod>
     
   </url>
   
