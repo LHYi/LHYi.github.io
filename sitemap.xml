@@ -2,23 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/Album/index.html</loc>
+    <loc>http://yoursite.com/LinearAlgebra/LA01-the-geometry-of-linear-equations/index.html</loc>
     
-    <lastmod>2020-05-23T15:18:01.528Z</lastmod>
+    <lastmod>2020-05-27T05:35:34.611Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://yoursite.com/Notes/index.html</loc>
     
-    <lastmod>2020-05-21T03:26:43.724Z</lastmod>
+    <lastmod>2020-05-27T03:08:53.701Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://yoursite.com/2020/05/15/Homepage/</loc>
     
-    <lastmod>2020-05-18T14:50:54.945Z</lastmod>
+    <lastmod>2020-05-27T02:55:11.825Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2020/05/15/Feiyue-for-ECE/</loc>
+    
+    <lastmod>2020-05-27T02:53:26.018Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/Album/index.html</loc>
+    
+    <lastmod>2020-05-23T15:18:01.528Z</lastmod>
     
   </url>
   
@@ -54,13 +68,6 @@
     <loc>http://yoursite.com/FeiyueForECE/index.html</loc>
     
     <lastmod>2020-05-15T06:15:37.537Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2020/05/15/Feiyue-for-ECE/</loc>
-    
-    <lastmod>2020-05-15T03:36:16.989Z</lastmod>
     
   </url>
   
