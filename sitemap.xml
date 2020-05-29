@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/Notes/index.html</loc>
+    
+    <lastmod>2020-05-29T03:48:09.501Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2020/05/15/Homepage/</loc>
     
     <lastmod>2020-05-29T03:46:08.413Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>http://yoursite.com/Notes/LinearAlgebra/LA01-the-geometry-of-linear-equations/index.html</loc>
     
     <lastmod>2020-05-29T03:39:32.672Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/Notes/index.html</loc>
-    
-    <lastmod>2020-05-29T02:38:46.679Z</lastmod>
     
   </url>
   
