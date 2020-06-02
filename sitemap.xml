@@ -2,23 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/Notes/LinearAlgebra/LA01-the-geometry-of-linear-equations/index.html</loc>
+    <loc>http://yoursite.com/Notes/Linear-Programming/index.html</loc>
     
-    <lastmod>2020-05-29T07:25:55.258Z</lastmod>
+    <lastmod>2020-06-02T09:21:36.761Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://yoursite.com/Notes/index.html</loc>
     
-    <lastmod>2020-05-29T03:54:45.524Z</lastmod>
+    <lastmod>2020-06-02T02:23:42.990Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://yoursite.com/2020/05/15/Homepage/</loc>
     
-    <lastmod>2020-05-29T03:46:08.413Z</lastmod>
+    <lastmod>2020-05-29T09:55:23.670Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/Notes/LinearAlgebra/LA01-the-geometry-of-linear-equations/index.html</loc>
+    
+    <lastmod>2020-05-29T07:25:55.258Z</lastmod>
     
   </url>
   
