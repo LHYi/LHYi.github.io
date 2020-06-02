@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/Notes/Linear-Programming/index.html</loc>
+    <loc>http://yoursite.com/Notes/index.html</loc>
     
-    <lastmod>2020-06-02T09:21:36.761Z</lastmod>
+    <lastmod>2020-06-02T09:51:44.654Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/Notes/index.html</loc>
+    <loc>http://yoursite.com/Notes/Linear-Algebra/index.html</loc>
     
-    <lastmod>2020-06-02T02:23:42.990Z</lastmod>
+    <lastmod>2020-06-02T09:51:17.076Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/Notes/Linear-Programming/index.html</loc>
+    
+    <lastmod>2020-06-02T09:21:36.761Z</lastmod>
     
   </url>
   
